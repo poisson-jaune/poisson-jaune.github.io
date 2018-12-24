@@ -1,0 +1,44 @@
+/*les paragraphe seront en rouge*/
+            h2
+            {
+                color: red;
+            }
+			h1
+			{
+			    color: yelow;
+	        }
+			.introduction
+			{
+			   color: black;
+			}
+p
+{
+    font-size: large
+}
+h1
+{
+    font-size: 60px;
+}
+*
+{
+    font-family: Comic Sans MS; shérif
+}
+h1
+{
+    text-decoration: underline;
+}
+*
+{
+    text-align: center;
+}
+
+body
+{
+	    background-color: whrite /* Le fond de la page sera noir */
+}
+
+h1
+{
+	color: yellow
+}
+
